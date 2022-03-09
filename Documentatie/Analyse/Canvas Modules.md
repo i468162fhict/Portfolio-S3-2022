@@ -1,6 +1,6 @@
 ***Allereerst heb ik de Canvas modules doorgelopen. Hieruit heb ik een omschrijving gekregen hoe ik mijn project moet gaan realiseren en waar ik me allemaal aan moet houden. Ook heb ik de leeruitkomsten bekeken en deze mijn eigen vertaling gegeven:***
 
-Individuele traject:
+#### Individuele traject:
 1.  Web application
     - Je ontwerpt en maakt gebruiksvriendelijke, full-stack web applicaties  
 	*Dit is de applicatie die je uiteindelijk maakt, hierbij let je op dat iedereen in jou gebruikers categorie snapt wat er overal gebeurt en wat elke knop / functie doet. Je let hier ook op dat het een full-stack web applicatie is, dit betekent dat het een aparte front-end en back-end heeft die via protocollen gebruik van elkaar maken.*
@@ -16,8 +16,8 @@ Individuele traject:
 
 ---
 
-Groeps Traject:
-1. Web application: [Zie Individuele traject](Web-Application).
+#### Groeps Traject:
+1. Web application: [Zie Individuele traject](1.Web-Application).
 2. Agile method
    - Je kiest en implementeert de meest geschikte agile softwareontwikkelingsmethode voor je softwareproject  
 	*Dit gaat vooral om het “agile” werken, denk hierbij aan scrum en het in sprints werken*
@@ -30,4 +30,4 @@ Groeps Traject:
 5. Business process
    - Je analyseert en beschrijft simpele business processen die gerelateerd zijn aan je project  
 	*Hierbij kijk je vooral naar hoe je je wekt uitvoert die door de stakeholders zijn gegeven. Hierbij werk je dit op een professionele manier uit zodat de uitkomst ook professioneel kan worden gebruikt. Hier kijk je ook naar bepaalde business aspecten zoals financiële zekerheden, de uitbrengst op de markt enz.*
-8. Professional: [Zie Individuele traject](Professional).
+8. Professional: [Zie Individuele traject](4.Professional).
