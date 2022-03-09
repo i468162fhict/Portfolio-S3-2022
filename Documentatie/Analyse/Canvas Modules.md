@@ -17,7 +17,7 @@ Individuele traject:
 ---
 
 Groeps Traject:
-1. Web application: [Zie Individuele traject](1.-Web-Application).
+1. Web application: [Zie Individuele traject](Web-Application).
 2. Agile method
    - Je kiest en implementeert de meest geschikte agile softwareontwikkelingsmethode voor je softwareproject  
 	*Dit gaat vooral om het “agile” werken, denk hierbij aan scrum en het in sprints werken*
@@ -30,4 +30,4 @@ Groeps Traject:
 5. Business process
    - Je analyseert en beschrijft simpele business processen die gerelateerd zijn aan je project  
 	*Hierbij kijk je vooral naar hoe je je wekt uitvoert die door de stakeholders zijn gegeven. Hierbij werk je dit op een professionele manier uit zodat de uitkomst ook professioneel kan worden gebruikt. Hier kijk je ook naar bepaalde business aspecten zoals financiële zekerheden, de uitbrengst op de markt enz.*
-8. Professional: [Zie Individuele traject](4.-Professional).
+8. Professional: [Zie Individuele traject](Professional).
