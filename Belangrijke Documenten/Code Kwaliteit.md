@@ -1,5 +1,5 @@
 # Code Kwaliteit 
-###### Project: | Door: Danny den Ouden
+###### Project: | Door: Danny den Ouden | Modules: 2. [Software Quality](../Documentatie/Analyse/Canvas%20Modules.md) + 4. [CI/CD](../Documentatie/Analyse/Canvas%20Modules.md)
 ---
 - Alle code moet duidelijk zijn in de benamingen wat het doet, is dit niet het geval zet er dan comments bij
 - Alle namingconventions moeten nageleefd worden zodat de benamingen consistent zijn in het hele project
