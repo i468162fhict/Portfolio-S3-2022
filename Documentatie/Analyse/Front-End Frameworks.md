@@ -50,7 +50,7 @@ Veu:
 | Veu | X | ++ | ++ |
 
 ---
-De uiteindelijke keuze met onderbouwing die ik gemaakt heb kun je hier vinden: [Belangrijke Keuzes.md](../Documentatie/Belangrijke%20Keuzes.md).
+De uiteindelijke keuze met onderbouwing die ik gemaakt heb kun je hier vinden: [Belangrijke Keuzes.md](../Belangrijke%20Keuzes.md).
 
 [^1]: Speedtest source: [JS framework speed comparison](https://javascript.plainenglish.io/javascript-frameworks-performance-comparison-2020-cd881ac21fce).
 [^2]: No Data. Ik heb geen goede vergelijkingen gevonden voor dit Framework.
