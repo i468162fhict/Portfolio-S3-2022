@@ -25,7 +25,9 @@ Taal:
   - Front-End: React.
     - Waarom?
     - *Ik heb gekozen voor React omdat dit een populaire framework is die op het moment veel gebruikt word. Hierdoor is er veel over te vinden en is het na mijn opleiding mogelijk nog steeds populair waardoor ik hier al wat kennis over beschik. Ook heb ik voor React gekozen omdat dit het “makkelijk” maakt om interactable UI’s te maken wat voor mijn project mij wel handig lijkt aangezien het veel moet laten weergeven en ook zo kan veranderen. Daarnaast  kun je React naar je eigen project vormen aangezien het meer een library is dan een framework.*
-- Back-End: #TODO
+  - Back-End: Spring Boot.
+    - Waarom?
+    - *Ik heb gekozen voor Spring Boot omdat dit een hele populaire framework is die ook veel door mede studenten is gekozen, hierdoor kan ik met hun mijn code vergelijken en zo beter maken. Ook heb ik voor dit framework gekozen omdat dit een vrij snel framework is en geschikt voor kleinere projecten wat het ideaal maakt voor mijn project aangezien dit niet zo'n super groot project gaat worden om hem in dit semester af te krijgen.*
 
 IDE:
 - Front-End: IntelliJ IDEA. 
