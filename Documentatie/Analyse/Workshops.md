@@ -11,6 +11,12 @@
    ![image](https://user-images.githubusercontent.com/99262072/157402333-b98259de-3e80-47f5-af62-f4150c7af6bb.png) ![image](https://user-images.githubusercontent.com/99262072/157402359-2325d330-a87c-42b7-a523-e2ac8252c127.png)
    - een tic tac toe spel met een geschiedenis van moves, het laat zien wie aan de beurt is en wisselt beurten af.
 
+#### Back-End
+1. Spring Boot: [Spring Boot Quickstart](https://spring.io/quickstart).
+   - Als eerst leer je om een nieuw SpringBoot project eenvoudig aan te maken met de [tool](https://start.spring.io/).  
+     Hierna maak je een eenvoudige function die Hello \[name] zegt. Hiernaast leer je hoe je een endpoint moet toevoegen aan de code zodat de code weet dat hij met deze functie moet antwoorden als hier een request naar word gestuurd.
+   - Resultaat: ![image](https://user-images.githubusercontent.com/99262072/158575523-c6109049-7789-4063-8762-ea28e96de4fd.png) ![image](https://user-images.githubusercontent.com/99262072/158575727-cc0d4b0b-faec-4a6a-b078-18f6067a9767.png)  
+     Als ik de back-end aanzet en naar de website ga met de functie dan krijg ik hello world te zien, als ik dan de query ?name=Danny erachter zet dan zegt hij: Hello Danny.
 
 ### Proftaak Workshops (in vrije tijd gemaakt)
 1. TypeScript: [Learn TypeScript](https://www.codecademy.com/courses/learn-typescript/).
