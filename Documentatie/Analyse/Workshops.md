@@ -2,6 +2,11 @@
 
 #### Front-End
 1. React: [Intro to React](https://reactjs.org/tutorial/tutorial.html#overview).
+   - Het begin zag er zo uit: ![image](https://user-images.githubusercontent.com/99262072/158564050-755f81e1-2892-4dd0-abc9-41d61cafcaff.png)  
+     Het bestond uit een veld van vakken waarmee je verder niets kon doen.  
+     vanuit hier begon ik met de vakken functioneel te maken als je erop zou klikken.  
+     Hierna moest ik zorgen dat er ook een X in kwam te staan en daarna zorgen dat er een O kwam te staan voor de volgende beurt. Dit moest om en om gebeuren tot er een winnaar was of het speelveld vol was  
+     Hierna ben ik wat extra functionaliteit gaan toevoegen zoals een bericht wie er aan de beurt was en daarna een history van je beurten zodat je het spel kon inzien.
    - Resultaat:
    ![image](https://user-images.githubusercontent.com/99262072/157402333-b98259de-3e80-47f5-af62-f4150c7af6bb.png) ![image](https://user-images.githubusercontent.com/99262072/157402359-2325d330-a87c-42b7-a523-e2ac8252c127.png)
    - een tic tac toe spel met een geschiedenis van moves, het laat zien wie aan de beurt is en wisselt beurten af.
