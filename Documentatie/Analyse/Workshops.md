@@ -17,6 +17,11 @@
      Hierna maak je een eenvoudige function die Hello \[name] zegt. Hiernaast leer je hoe je een endpoint moet toevoegen aan de code zodat de code weet dat hij met deze functie moet antwoorden als hier een request naar word gestuurd.
    - Resultaat: ![image](https://user-images.githubusercontent.com/99262072/158575523-c6109049-7789-4063-8762-ea28e96de4fd.png) ![image](https://user-images.githubusercontent.com/99262072/158575727-cc0d4b0b-faec-4a6a-b078-18f6067a9767.png)  
      Als ik de back-end aanzet en naar de website ga met de functie dan krijg ik hello world te zien, als ik dan de query ?name=Danny erachter zet dan zegt hij: Hello Danny.
+     
+2. Spring Boot + React: [React and Spring Data Rest](https://spring.io/guides/tutorials/react-and-spring-data-rest/).
+   - In dit project leer je om een kleine back-end te maken die met een hele simpele React front end communiceert. Uiteindelijk heb je een website waar je je werknemers kunt beheren en inzien.  
+   Als eerste maken we een 'Employee' classe waarin alle data staat die een weknemer kan hebben. Ook zetten we standaard data in de "database" zodat we iets hebben om in te kunnen zien en te bewerken.  
+   Hierna maken we een hele kleine front-end waarmee de backend kan communiceren en de werknemers kan tonen aan degene die ze in wil zien. Met dit stuk heb ik wat problemen ondervonden waar ik wat tijd mee verloren ben: Ik kon namelijk niet op mijn front-end zien.
 
 ### Proftaak Workshops (in vrije tijd gemaakt)
 1. TypeScript: [Learn TypeScript](https://www.codecademy.com/courses/learn-typescript/).
