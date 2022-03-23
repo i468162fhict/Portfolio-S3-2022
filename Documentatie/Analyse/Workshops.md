@@ -21,7 +21,12 @@
 2. Spring Boot + React: [React and Spring Data Rest](https://spring.io/guides/tutorials/react-and-spring-data-rest/).
    - In dit project leer je om een kleine back-end te maken die met een hele simpele React front end communiceert. Uiteindelijk heb je een website waar je je werknemers kunt beheren en inzien.  
    Als eerste maken we een 'Employee' classe waarin alle data staat die een weknemer kan hebben. Ook zetten we standaard data in de "database" zodat we iets hebben om in te kunnen zien en te bewerken.  
-   Hierna maken we een hele kleine front-end waarmee de backend kan communiceren en de werknemers kan tonen aan degene die ze in wil zien. Met dit stuk heb ik wat problemen ondervonden waar ik wat tijd mee verloren ben: Ik kon namelijk niet op mijn front-end zien.
+   Hierna maken we een hele kleine front-end waarmee de backend kan communiceren en de werknemers kan tonen aan degene die ze in wil zien. Met dit stuk heb ik wat problemen ondervonden waar ik wat tijd mee verloren ben: Ik kon namelijk niet op mijn front-end zien. Na lang zoeken en veel trial and errors kwam ik op deze [issue](https://github.com/spring-guides/tut-react-and-spring-data-rest/issues/124). Dankzij deze issue en de stappen die ik erna heb genomen is het gelukt om deel 1 van de workshop af the maken met een lijst van employees als resultaat:  
+   ![image](https://user-images.githubusercontent.com/99262072/159676057-2a89a0c1-24fc-4d73-a380-c2ec8c0d76a9.png)  
+   Hierbij heb ik geleerd om met REST te werken om zo de back- en front-end te onderschijden. Ik heb hiervoor een klasse gemaakt voor de employee, een controller en een databaseinitilizer. Hiernaast heb ik met HTML en JS (REACT) de front-end gemaakt en zo de data aangevraagd van de back-end.  
+   - Deel 2:  
+   
+
 
 ### Proftaak Workshops (in vrije tijd gemaakt)
 1. TypeScript: [Learn TypeScript](https://www.codecademy.com/courses/learn-typescript/).
