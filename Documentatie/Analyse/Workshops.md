@@ -25,8 +25,10 @@
    ![image](https://user-images.githubusercontent.com/99262072/159676057-2a89a0c1-24fc-4d73-a380-c2ec8c0d76a9.png)  
    Hierbij heb ik geleerd om met REST te werken om zo de back- en front-end te onderschijden. Ik heb hiervoor een klasse gemaakt voor de employee, een controller en een databaseinitilizer. Hiernaast heb ik met HTML en JS (REACT) de front-end gemaakt en zo de data aangevraagd van de back-end.  
    - Deel 2:  
-   
-
+     In het tweede deel hebben we gekeken naar het dynamischer maken van de front-page en basic CRUD operations in the front end zoals: GET, DELETE & POST.  
+     ![image](https://user-images.githubusercontent.com/99262072/160133417-ae976bd2-d83a-4818-bf31-989419b0b2ad.png) ![image](https://user-images.githubusercontent.com/99262072/160133495-d5497783-29ed-4c45-8fb0-36c3c0deff65.png)  
+     Ook hier heb ik weer wat problemen ondervonden, ik kwam erachter dat niet alle veranderingen worden getoond in de tutorial en dat ik dus zelf nog mijn code met die in de tutorial zijn source moest vergelijken en desnoods veranderen. Ook was eer een stuk code dat out dated was en ik dus zelf moest uitzoeken hoe ik hem wel werkend moest krijgen. Ik heb dit gedeelte vooral geleerd om specifieke calls te maken naar de back-end en hoe "sterk" het Spring Boot framework is want door slechts een klein woord in een lijn code te veranderen kon ik ineens veel meer doen als in deel 1.  
+   - Deel 3:
 
 ### Proftaak Workshops (in vrije tijd gemaakt)
 1. TypeScript: [Learn TypeScript](https://www.codecademy.com/courses/learn-typescript/).
