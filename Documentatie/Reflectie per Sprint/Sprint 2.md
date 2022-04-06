@@ -11,10 +11,15 @@ Leeruitkomst 1 (Web-Application):
 *Voor Leeruitkomst 1 wil ik gaan werken aan mijn eigen en groeps-project. Hierbij laat ik zien dat ik onderscheid kan maken tussen Front- en Back-End.*  
 *Om dit te realizeren wil ik een font-end in JavaScript met ReactJs maken en een Back-End met Java + Spring Boot. Deze laat ik comminiceren via het REST API protocollen. Zo kan ik onderscheid maken tussen de verschillende methodes: GET, PUT, POST & DELETE. Ook kan ik gebruik maken van verschillende technieken om zo asynchronous problemen op te lossen. Hierdoor weet ik wanneer ik iets asynchronous moet laten gebeuren of synchronous.*  
 dus opgesomt:
-- Front- en Back-End gescheiden houden
+- Front- en Back-End(ReactJs + Spring Boot) gescheiden houden
 - REST API kennen en implementeren
 - Asynchronous problemen oplossen
 - Onderbouwen waarom ik het zo doe
+- Begrijpbare UX en begrijpen waarom dit belangrijk is.
+
+(neerzetten wat ik al heb gedaan + eigen visie waar ik sta)
+
+---
 
 Leeruitkomst 2 (Software Quality):  
 *Voor Leeruitkomst 2 wil ik eerst een code quality schrijven waar ik me aan wil gaan houden zodat mijn code behoudbaar is. Hiernaast wil ik een aantal UnitTest schrijven zodat ik snel en efficiënt kan kijken of mijn code fouten bevat.*  
@@ -24,6 +29,7 @@ dus opgesomt:
 - SOLID aanhouden
 - Duidelijke benamingen
 - Houden aan mijn codeQuality
+- (kijk naar modules in Quality Assurance: expected outcomes)
 
 Leeruitkomst 3 (Agile Method):  
 *Voor Leeruitkomst 3 wil ik gaan werken met Git Issues en in ons groepsproject met SCRUM Poker. Verder kijk ik nog naar andere manieren van Agile werken en documenteer deze. Om dit aan te gaan tonen hebben wij per sprint een backlog waarin wij onze userstories met punten bijhouden, vanuit deze punten kunnen we aan het einde van de sprint kijken hoeveel we in totaal hebben gemaakt en hier een burn- up of down chart van kunnen maken.*
