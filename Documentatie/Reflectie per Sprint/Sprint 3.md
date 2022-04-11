@@ -78,6 +78,23 @@ dus opgesomt:
 - Per sprint kijken wat we gaan doen
 - burn up/down chart
 
+Wat heb ik gedaan?
+*Ook deze sprint hebben we weer gekeken naar wat wij wilden behalen, wij hebben dit ook met de Stakeholders besproken. Hieruit hebben we weer een aantal UserStories genomen en hier verder aan gewerkt*
+Totaal:
+- Git issues opgesteld
+- SCRUM Poker gedaan
+- Per sprint gekeken naar wat we doen
+- Stand ups
+- Stand downs
+- Retrospectives
+
+Wat ga ik nog doen?
+- Burn up/down chart gemaakt worden
+
+Waar sta ik dan? - Ik denk dat ik al op Beginnend sta, zo snap ik wat agile werken inhoud en kan ik hier al mee omgaan. Ik ben nog bezig met dit process en denk dit ook snel al op Proficient te kunnen krijgen.
+
+---
+
 Leeruitkomst 4 (CI/CD):  
 *Voor Leeruitkomst 4 wil ik gaan kijken naar wat CI/CD nou precies inhoud en hoe ik dit implementeer*
 - CI/CD kunnnen uitleggen
@@ -85,8 +102,7 @@ Leeruitkomst 4 (CI/CD):
 - CI/CD Implementeren  
 
 wat heb ik gedaan?  
-- Ik heb gekeken naar wat CI/CD inhoud: [CI/CD](../Analyse/CI-CD.md)
-
+*Ik heb deze sprint gekeken naar wat CI/CD Precies inhoud, zo heb ik een document hierover opgesteld en kan ik nu beschijven wat het is.*
 Totaal:
 - Gekeken naar wat CI/CD inhoud: [CI/CD](../Analyse/CI-CD.md)
 
@@ -108,6 +124,8 @@ dus opgesomt:
 
 Wat heb ik gedaan?
 
+---
+
 Leeruitkomst 6 (Requirements and Design):  
 *Voor Leeruitkomst 6 wil ik met de stakeholders kijken wat ze nou precies willen en kijken of wat ik in gedachten heb op een lijn is met die van hun. Verder wil ik kijken of ze een bepaalde huisstijl gebruiken en die implementeren zo niet dan wil ik een aantal designs voorleggen.*  
 *Om dit te realizeren wil ik duidelijk neerzetten wat en hoe ik iets wil doen, ik wil overleggen met de stakeholders hoe en wat hun visie achter iets is waardoor ik snap wat en hoe ik iets moet gaan realizeren.*  
@@ -117,12 +135,36 @@ dus opgesomt:
 - Alles op tijd en compleet opleveren
 - Houden aan verschillende design keuzes
 
+Wat heb ik gedaan?
+
+Totaal:
+- 
+
+Wat ga ik nog doen?
+- 
+
+Waar sta ik dan? - Ik denk dat
+
+---
+
 Leeruitkomst 7 (Business Processes):  
 *Voor Leeruitkomst 7 wil ik gaan kijken naar verschillende aspecten die de app aantrekkelijk maken zodat andere bedrijven deze ook willen gaan gebruiken. Hiernaast wil ik ook gaan kijken naar het product te hosten zodat deze altijd bereikbaar is vanaf waar dan ook.*  
 dus opgesomt:
 - Kijken waarom iets aantrekkelijk is
 - Hosten van een web-app
 - Kijken wanneer iets realistisch is
+
+Wat heb ik gedaan?
+
+Totaal:
+- 
+
+Wat ga ik nog doen?
+- 
+
+Waar sta ik dan? - Ik denk dat
+
+---
 
 Leeruitkomst 8 (Professional):  
 *Voor Leeruitkomst 8 wil ik minimaal 1x per week feedback vragen zodat ik deze daarna kan verwerken. Verder wil ik al mijn keuzes onderbouwen en documenteren zodat mijn keuzes vast staan met waarom ik ervoor heb gekozen en niet voor een ander.*  
@@ -133,6 +175,16 @@ dus opgesomt:
 - keuzes onderbouwen
 - blijven documenteren
 - duidelijke bewijzen leveren
+
+Wat heb ik gedaan?
+
+Totaal:
+- 
+
+Wat ga ik nog doen?
+- 
+
+Waar sta ik dan? - Ik denk dat
 
 ---
 
