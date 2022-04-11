@@ -81,18 +81,19 @@ dus opgesomt:
 Leeruitkomst 4 (CI/CD):  
 *Voor Leeruitkomst 4 wil ik gaan kijken naar wat CI/CD nou precies inhoud en hoe ik dit implementeer*
 - CI/CD kunnnen uitleggen
-- Het process in kaart brengen  
+- Het process in kaart brengen
+- CI/CD Implementeren  
 
 wat heb ik gedaan?  
-*Ik ben nu aan het Oriënteren*  
+- Ik heb gekeken naar wat CI/CD inhoud: [CI/CD](../Analyse/CI-CD.md)
+
 Totaal:
-- 
+- Gekeken naar wat CI/CD inhoud: [CI/CD](../Analyse/CI-CD.md)
 
 Wat ga ik nog doen?
-- Kijken wat CI/CD precies is
-- Het implementeren hiervan
+- Het implementeren van CI/CD via GIT
 
-Waar sta ik dan? - Ik denk dat ik tussen Oriënteren en Undefined in sta, ik heb nog niet veel gekeken maar ben er wel mee bezig.
+Waar sta ik dan? - Ik denk dat ik tussen Oriënteren sta, ik heb gekeken naar wat CI/CD is en kan dit ook uitleggen. Ik heb er zelf nog geen stappen in gezet.
 
 ---
 
