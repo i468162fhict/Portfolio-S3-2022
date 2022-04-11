@@ -27,6 +27,10 @@ Totaal:
 - de f&b-end met elkaar laten communiceren via REST API
 - GET Methodes gebruikt
 - Onderbouwende documenten geschreven: 
+  - (Front-End Frameworks)[../Analyse/Front-End%20Frameworks.md]
+  - (Back-End Frameworks)[../Analyse/Back-End%20Frameworks.md]
+  - (Workshops)[../Analyse/Workshops.md]
+  - (UX)[../Analyse/UX.md]
 
 Wat ga ik nog doen?
 - Verder REST API implementeren (volgende sprint)
@@ -78,9 +82,9 @@ dus opgesomt:
 Leeruitkomst 4 (CI/CD):  
 *Voor Leeruitkomst 4 wil ik gaan kijken naar wat CI/CD nou precies inhoud en hoe ik dit implementeer*
 - CI/CD kunnnen uitleggen
-- Het process in kaart brengen
+- Het process in kaart brengen  
 
-Wat heb ik gedaan?  
+wat heb ik gedaan?  
 *Ik ben nu aan het Oriënteren*  
 Totaal:
 - 
