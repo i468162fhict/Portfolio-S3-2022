@@ -7,4 +7,4 @@ Omdat dit een linear process is word er vaak gesproken over een pipeline, dit be
 
 
 sources:
-[^1]: https://www.true.nl/blog/ci-cd-uitgelegd/
+https://www.true.nl/blog/ci-cd-uitgelegd/
