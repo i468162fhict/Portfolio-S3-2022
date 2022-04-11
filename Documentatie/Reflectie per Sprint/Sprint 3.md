@@ -27,10 +27,10 @@ Totaal:
 - de f&b-end met elkaar laten communiceren via REST API
 - GET Methodes gebruikt
 - Onderbouwende documenten geschreven: 
-  - (Front-End Frameworks)[../Analyse/Front-End%20Frameworks.md]
-  - (Back-End Frameworks)[../Analyse/Back-End%20Frameworks.md]
-  - (Workshops)[../Analyse/Workshops.md]
-  - (UX)[../Analyse/UX.md]
+  - [Front-End Frameworks](../Analyse/Front-End%20Frameworks.md)
+  - [Back-End Frameworks](../Analyse/Back-End%20Frameworks.md)
+  - [Workshops](../Analyse/Workshops.md)
+  - [UX](../Analyse/UX.md)
 
 Wat ga ik nog doen?
 - Verder REST API implementeren (volgende sprint)
