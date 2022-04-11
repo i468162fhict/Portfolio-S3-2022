@@ -18,27 +18,26 @@ dus opgesomt:
 - Begrijpbare UX en begrijpen waarom dit belangrijk is.
 
 Wat heb ik gedaan?  
-*Deze sprint heb ik gewerkt aan...*  
+*Deze sprint heb ik gewerkt aan research naar UX, zo heb ik gekeken naar wat dit inhoud en dit gedocumenteert. Hiernaast heb ik verder aan mijn project gecodeerd.*  
 Totaal:
-- Georiënteerd wat Full-Stack inhoud:
-- Workshops: 
-- Georiënteerd wat een REST API inhoud:
+- Georiënteerd wat Full-Stack inhoud: [Full-Stack](../Analyse/Full-Stack.md)
+- Workshops: [Workshops](../Analyse/Workshops.md)
+- Georiënteerd wat een REST API inhoud: [Rest API](../Analyse/Rest%20API.md)
 - Een aparte front(ReactJs) en back(Spring Boot) end opgezet
 - de f&b-end met elkaar laten communiceren via REST API
 - GET Methodes gebruikt
+- UX research gedaan
 - Onderbouwende documenten geschreven: 
   - [Front-End Frameworks](../Analyse/Front-End%20Frameworks.md)
   - [Back-End Frameworks](../Analyse/Back-End%20Frameworks.md)
-  - [Workshops](../Analyse/Workshops.md)
   - [UX](../Analyse/UX.md)
 
 Wat ga ik nog doen?
 - Verder REST API implementeren (volgende sprint)
 - Async problemen oplossen
-- UX research (volgende sprint)
 - Begrijpbare UX maken (volgende sprint)
 
-Waar sta ik dan? - Ik denk dat ik nu op Beginning sta, ik heb al geörienteerd en ben nu met de 1ste stappen bezig
+Waar sta ik dan? - Ik denk dat ik nu op Beginning sta, ik heb al geörienteerd en ben nu met de 1ste stappen bezig richting de Proficient.
 
 ---
 
