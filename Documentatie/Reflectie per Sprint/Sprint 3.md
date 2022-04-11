@@ -1,4 +1,4 @@
-<h1 align="center">Leeswijzer Sprint 2</h1>
+<h1 align="center">Leeswijzer Sprint 3</h1>
 
 Mijn project:  
 *Dit project gaat over een soort van turn-based battle simulator. Ik heb inspiratie opgedaan aan de site [Pokémon Showdown](https://play.pokemonshowdown.com/). Mijn doel voor dit project is om te leren hoe ik een verschillende front- en back-end moet maken en deze met elkaar kan laten communiceren terwijl ik een van mijn hobbies probeer na te maken. Mijn visie voor dit project is om tot een mooi werkend product te komen met multiplayer functionaliteit.*
