@@ -5,6 +5,7 @@ CD: Continuous Deployment / Delivery, Het delivery van CD zorgt ervoor dat de co
 
 Omdat dit een linear process is word er vaak gesproken over een pipeline, dit betekent dat de code eerst door alle geïntergreerde autmatisatie testen moet gaan voordat het door de delivery tests gaat om daarna door de deployment tests te gaan. Zo word alles nagekeken op zo min mogelijk tot geen fouten te krijgen in het uiteindelijke product.
 
+Hiernaast heb ik ook een workshop gevolgd die door Patrick gegeven werd naar wat CI/CD inhoud en waarom dit gebruikt word. Zo is het vooral handig om handmatige tests makkelijk en snel te automatiseren wat veel tijd scheelt en voor veel betere kwaliteit van de code zorgt.
 
 sources:
 https://www.true.nl/blog/ci-cd-uitgelegd/
