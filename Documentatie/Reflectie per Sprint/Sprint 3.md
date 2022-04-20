@@ -57,7 +57,7 @@ wat heb ik gedaan?
 *Deze sprint heb ik gekeken naar wat deze leeruitkomst nogmeer inhoud omdat ik nog niet voldoende had geörienteerd.*  
 Totaal:
 - Georiënteerd wat Software Quality inhoud
-- Een code quality document geschreven en hieraan gehouden:
+- Een code quality document geschreven en hieraan gehouden: [Code Quality](../../Belangrijke%20Documenten/Code%20Kwaliteit.md).
 - Mezelf bezig gehouden met de SOLID principes: meeting over SOLID bijgewoond.
 
 Wat ga ik doen?
@@ -104,7 +104,7 @@ Leeruitkomst 4 (CI/CD):
 wat heb ik gedaan?  
 *Ik heb deze sprint gekeken naar wat CI/CD Precies inhoud, zo heb ik een document hierover opgesteld en kan ik nu beschijven wat het is.*
 Totaal:
-- Gekeken naar wat CI/CD inhoud: [CI/CD](../Analyse/CI-CD.md)
+- Gekeken naar wat CI/CD inhoud: [CI/CD](../Analyse/CI-CD.md) + Een workshop van Patrick aangevraagd en bijgewoond.
 
 Wat ga ik nog doen?
 - Het implementeren van CI/CD via GIT
