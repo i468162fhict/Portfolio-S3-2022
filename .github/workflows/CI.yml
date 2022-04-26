@@ -21,11 +21,11 @@ jobs:
       
       - name: Install NPM
         run: npm install
-        working-directory: pokemon_basim_front-end
+        working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
         
       - name: Run Tests
         run: npm test
-        working-directory: pokemon_basim_front-end
+        working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
   build:
     name: Build
     runs-on: ubuntu-latest
@@ -39,8 +39,8 @@ jobs:
 
       - name: Install NPM
         run: npm install
-        working-directory: pokemon_basim_front-end
+        working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
 
       - name: Build Project
         run: npm run build
-        working-directory: pokemon_basim_front-end
+        working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
