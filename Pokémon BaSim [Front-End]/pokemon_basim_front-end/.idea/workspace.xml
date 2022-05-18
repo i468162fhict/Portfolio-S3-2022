@@ -5,39 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="038ee402-1c48-460c-96a7-322448424e98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/java/com/sjonnie/productions/pokemon_basim_backend/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/java/com/sjonnie/productions/pokemon_basim_backend/controllers/SessionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/java/com/sjonnie/productions/pokemon_basim_backend/game/GameRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/pokemon_basim_front-end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSS/Game.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSS/NewGame.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GameComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewGameComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/GameRoute.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/HomeRoute.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/NewGameService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/SessionService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/java/com/sjonnie/productions/pokemon_basim_backend/controllers/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/java/com/sjonnie/productions/pokemon_basim_backend/controllers/GameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/java/com/sjonnie/productions/pokemon_basim_backend/controllers/IController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/java/com/sjonnie/productions/pokemon_basim_backend/controllers/IController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/java/com/sjonnie/productions/pokemon_basim_backend/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/java/com/sjonnie/productions/pokemon_basim_backend/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/rcb-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/rcb-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rcb-settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dev/previews.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/previews.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/test/java/com/sjonnie/productions/pokemon_basim_backend/PokemonBasimBackEndApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pokémon BaSim [Back-End]/src/test/java/com/sjonnie/productions/pokemon_basim_backend/PokemonBasimBackEndApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +58,7 @@
       <workItem from="1652351977174" duration="1011000" />
       <workItem from="1652443807433" duration="2580000" />
       <workItem from="1652874197002" duration="715000" />
+      <workItem from="1652879627275" duration="370000" />
     </task>
     <servers />
   </component>
