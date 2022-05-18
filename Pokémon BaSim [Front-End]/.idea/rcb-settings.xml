@@ -3,9 +3,9 @@
   <component name="ReactBuddyPluginProjectSettings">
     <option name="devServerConfigs">
       <DevServerState>
-        <option name="packageJsonPath" value="$PROJECT_DIR$/pokemon_basim_front-end/package.json" />
-        <option name="port" value="3000" />
-        <option name="scriptName" value="build" />
+        <option name="packageJsonPath" value="$PROJECT_DIR$/package.json" />
+        <option name="port" value="8080" />
+        <option name="scriptName" value="start" />
       </DevServerState>
     </option>
   </component>

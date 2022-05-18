@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {DevSupport} from "@react-buddy/ide-toolbox";
 import {ComponentPreviews, useInitial} from "./dev";
+import {BrowserRouter as Router} from "react-router-dom";
 
 ReactDOM.render(
     <React.StrictMode>
@@ -12,7 +13,9 @@ ReactDOM.render(
             ComponentPreviews={ComponentPreviews}
             useInitialHook={useInitial}
         >
-            <App/>
+            <Router>
+                <App />
+            </Router>
         </DevSupport>
     </React.StrictMode>,
     document.getElementById('root')
