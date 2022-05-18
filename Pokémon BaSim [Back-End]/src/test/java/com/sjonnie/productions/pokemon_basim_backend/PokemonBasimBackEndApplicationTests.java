@@ -9,5 +9,4 @@ class PokemonBasimBackEndApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
