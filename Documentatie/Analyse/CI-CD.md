@@ -7,5 +7,11 @@ Omdat dit een linear process is word er vaak gesproken over een pipeline, dit be
 
 Hiernaast heb ik ook een workshop gevolgd die door Patrick gegeven werd naar wat CI/CD inhoud en waarom dit gebruikt word. Zo is het vooral handig om handmatige tests makkelijk en snel te automatiseren wat veel tijd scheelt en voor veel betere kwaliteit van de code zorgt.
 
+
+---
+Mijn workflow:
+![image](https://user-images.githubusercontent.com/99262072/169001809-cdaaa20c-75b2-434b-8c18-b5fd3a7469ba.png)
+
+
 sources:
 https://www.true.nl/blog/ci-cd-uitgelegd/
