@@ -3,6 +3,7 @@ import {ComponentPreview, Previews} from '@react-buddy/ide-toolbox';
 import {PaletteTree} from './palette';
 import App from "../App";
 import PokemonService from "../services/PokemonService";
+import NewGameComponent from "../components/NewGameComponent";
 
 const ComponentPreviews = () => {
     return (
@@ -15,6 +16,9 @@ const ComponentPreviews = () => {
             </ComponentPreview>
             <ComponentPreview path="/PokemonService">
                 <PokemonService/>
+            </ComponentPreview>
+            <ComponentPreview path="/NewGameComponent">
+                <NewGameComponent/>
             </ComponentPreview>
         </Previews>
     );
