@@ -24,7 +24,7 @@ jobs:
         working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
         
       - name: Run Tests
-        run: npm test
+        run: npm test --passWithNoTests
         working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
   build:
     name: Build
