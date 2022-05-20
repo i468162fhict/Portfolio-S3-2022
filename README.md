@@ -1,4 +1,5 @@
 # Portfolio-S3-2022
+
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.mDzIoaqnw_whAiaTSz4iwgHaFj?pid=ImgDet&rs=1" alt="Protfolio-Image"> <!-- Verander placeholder naar Bee movie.gif -->
 </p>
@@ -17,3 +18,4 @@ Analyze documenten: [Click here!](/Documentatie/Analyse/).
 Workshops die ik gemaakt heb: [Workshops](/Documentatie/Analyse/Workshops.md).  
 
 ## Inhoud
+

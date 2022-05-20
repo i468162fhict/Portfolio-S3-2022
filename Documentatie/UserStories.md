@@ -9,4 +9,4 @@
 7. Als gebruiker wil ik de optie hebben om een item te kunnen gebruiken zodat ik sterker / beter kan worden
 8. Als gebruiker wil ik een team kunnen samenstellen zodat ik met mijn eigen stijl / team kan spelen
 9. Als gebruiker wil ik een naam kunnen toegeven aan mijn karakter zodat anderen kunnen zien wie ik ben
-10. Als gebruiker wil ik de optie hebben om anderen hun spel te bekijken zodat ik kan zien hoe anderen spelen
+10. Als gebruiker wil ik de optie hebben om spellen van anderen te bekijken zodat ik kan zien hoe anderen spelen
