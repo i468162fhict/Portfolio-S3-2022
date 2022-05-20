@@ -1,0 +1,46 @@
+name: CI
+
+# Controls when the workflow will run
+on:
+  push:
+    branches: [ main, Development ]
+  pull_request:
+
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Run Unit Tests
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      
+      - name: Install NPM
+        run: npm install
+        working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
+        
+      - name: Run Tests
+        run: npm test --passWithNoTests
+        working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install NPM
+        run: npm install
+        working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
+
+      - name: Build Project
+        run: npm run build
+        working-directory: Pokémon BaSim [Front-End]/pokemon_basim_front-end
