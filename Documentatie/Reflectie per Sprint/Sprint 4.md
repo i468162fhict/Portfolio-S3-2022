@@ -18,7 +18,7 @@ dus opgesomt:
 - Begrijpbare UX en begrijpen waarom dit belangrijk is.
 
 Wat heb ik gedaan?  
-*Ik heb deze sprint nieuwe code gemaakt om games te kunnen maken en te joinen.*  
+*Ik heb deze sprint nieuwe code gemaakt om games te kunnen maken en te joinen. Verder heb ik gekeken wat Docker is en hier een container voor gemaakt. Ook heb ik al een image kunnen runnen.*  
 Totaal:
 - Georiënteerd wat Full-Stack inhoud: [Full-Stack](../Analyse/Full-Stack.md)
 - Workshops: [Workshops](../Analyse/Workshops.md)
@@ -31,11 +31,11 @@ Totaal:
   - [Front-End Frameworks](../Analyse/Front-End%20Frameworks.md)
   - [Back-End Frameworks](../Analyse/Back-End%20Frameworks.md)
   - [UX](../Analyse/UX.md)
+- Docker toegepast
 
 Wat ga ik nog doen?
 - Async problemen oplossen
 - Begrijpbare UX documenteren
-- Docker onderzoeken en toepassen
 
 Waar sta ik dan? - Ik denk dat ik nu op Beginning sta en richting de proficient, Ik moet nog een paar stappen zetten en dan zou ik proficient in deze uitkomst zijn.
 
@@ -102,16 +102,16 @@ Leeruitkomst 4 (CI/CD):
 - CI/CD Implementeren  
 
 wat heb ik gedaan?  
-*Ik heb deze sprint al een klein CI bestand opgezet en deze geimplementeert*
+*Ik heb deze sprint al een klein CI bestand opgezet en deze geimplementeert, verder heb ik ook een CD aangemaakt en deze laten builden en een docker image laten maken, hierbij ben ik alleen tegen een probleem aangelopen met de VPN om met de database te kunnen verbinden*
 Totaal:
 - Gekeken naar wat CI/CD inhoud: [CI/CD](../Analyse/CI-CD.md) + Een workshop van Patrick aangevraagd en bijgewoond.
 - CI bestand gemaakt en toegepast
+- CD gemaakt en toegepast
 
 Wat ga ik nog doen?
-- Het implementeren van CD via GIT
 - Code quality checken
 
-Waar sta ik dan? - Ik denk dat ik op beginning sta, Ik ben er mee bezig geweest en begrijp wat het is, zo heb ik ook al een bestand opgezet die voor mij mijn testen uitvoert en kijkt of de applicatie een geldige build heeft.
+Waar sta ik dan? - Ik denk dat ik op beginning sta en bijna op proficient, Ik ben er mee bezig geweest en begrijp wat het is, zo heb ik ook al een bestand opgezet die voor mij mijn testen uitvoert en kijkt of de applicatie een geldige build heeft, hiernaast heb ik een CD bestand gemaakt die de back end test en een image van deployed via docker.
 
 ---
 
