@@ -1,4 +1,4 @@
-package com.sjonnie.productions.pokemon_basim_backend;
+package com.sjonnie.productions.pokemon_basim_backend.pokemon;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

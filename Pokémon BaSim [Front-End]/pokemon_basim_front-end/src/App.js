@@ -1,37 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
-import PokemonComponent from "./components/PokemonComponent";
+import Game from "./routes/GameRoute";
+import Home from "./routes/HomeRoute";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Link,
+} from "react-router-dom";
+
 
 function App() {
   return (
     <div>
       <div>
-        <ul className="App-ul">
-          <li className="App-ul-li"><a className="App-ul-li-a" href="">Home</a> </li>
-          <li className="App-ul-li"><a className="App-ul-li-a" href="">About</a> </li>
-        </ul>
+          <Routes>
+            <Route exact path="/" element={<Home />}/>
+            <Route path="/game" element={<Game />}/>
+          </Routes>
       </div>
-        <div className="App-Body">
-          <div className="App">
-            <PokemonComponent />
-          </div>
-          <div className="App">
-            <header className="App-header">
-              <img src={logo} className="App-logo" alt="logo" />
-              <p>
-                Edit <code>src/App.js</code> and save to reload.
-              </p>
-              <a
-                className="App-link"
-                href="https://reactjs.org"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Learn React
-              </a>
-            </header>
-          </div>
-        </div>
+      <div>
+          <ul className="App-ul">
+            <li className="App-ul-li"><Link to="/" className="App-ul-li-a">Home</Link> </li>
+            <li className="App-ul-li"><Link to="/game" className="App-ul-li-a">About</Link> </li>
+          </ul>
+      </div>
     </div>
   );
 }

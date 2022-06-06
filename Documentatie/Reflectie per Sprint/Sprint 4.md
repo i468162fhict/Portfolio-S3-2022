@@ -65,8 +65,9 @@ Totaal:
 Wat ga ik doen?
 - Tests maken
 - Automated tests maken
+- Risk based test ontwerp maken
 
-Waar sta ik dan? - Ik denk dat ik nu op beginning sta, ik heb nu uitgezogd wat dit leerdoel inhoud en heb hier de eerste stappen in gezet
+Waar sta ik dan? - Ik denk dat ik nu op beginning sta, ik heb nu uitgezocht wat dit leerdoel inhoud en heb hier de eerste stappen in gezet
 
 ---
 
@@ -124,7 +125,8 @@ dus opgesomt:
 - Verschillende designs
 - Rekening houden met de verschillen in de culturen
 
-Wat heb ik gedaan?
+Wat heb ik gedaan?  
+*Ik heb deze sprint een test gedaan om te kijken wat voor een persoon ik ben, ik heb dit gedaan omdat een groepslid deze test aanraadde om zo te zien wat voor persoonlijkheid elk groepslid heeft zodat wij hier rekening mee kunnen houden en begrip voor elkaar kunnen tonen.*
 
 ---
 
