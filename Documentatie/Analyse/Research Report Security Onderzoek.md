@@ -18,6 +18,7 @@ Hoe zorg ik dat mijn componenten zo min mogelijke vulnerabilies hebben?
 4. [Wanneer ben je vulnerable](#wanneer-ben-je-nu-vulnerable)
 5. [Wat kun je er tegen doen](#wat-kun-je-er-tegen-doen)
 6. [Best practices](#best-practices23)
+7. [Hoe kun je dit testen?](#hoe-kun-je-dit-testen)
 7. [Conclusie](#conclusie)
 
 ---
@@ -49,6 +50,11 @@ Je zou een patch management moeten hebben die het volgende kan doen[^1]:
 - Kijk goed naar de kwaliteit van een component, je gebruikt vaak componenten die je collega's en vrienden ook gebruiken omdat zij hier al bekend mee zijn. Beter is om te kijken naar de kwaliteit van de component dan naar bekendheid. Dus kijk goed naar de voordelen en nadelen van een component en weeg deze tussen elkaar af.
 - Gebruik een binaire Repo Manager, dit is een essentiële tool voor het beheren van je componenten. Zulke tools laten je locale kopiën van componenten opslaan waardoor je je packages kunt gebruiken zelfs tijdens outages
 - Gebruik build tools, CI tools zoals Jenkins of Git Actions laten je makkelijk inzien en beheren van je componenten. Zo kun je snel security flaws inzien en deze repareren.
+
+### Hoe kun je dit testen?
+Je kunt verschillende tooling inschakelen om zo als je een nieuw component toevoegd meteen te kunnen kijken op dergelijke fouten. Zo kun je bijvoorbeeld in je CI pipeline een check laten uitvoeren op compatibility issues of dat je compenent bekende en gevaarlijke fouten bevat. Dus ook of hier een bestaande patch voor is. Zo kun je ook testen of je wel de laatste en veiligste versie hebt.  
+Verder kun je ook zelf nagaan op verschillende sites zoals: [OWASP](https://owasp.org/). dit is een site waarop je snel kunt zien of er vulnerabilities in een component zitten / zijn gevonden. Hierdoor kun je snel kijken of er een update of een patch voor is.  
+Als er geen patches of updates zijn kun je zelf ook nog altijd kijken of je dit zelf kunt oplossen door zelf een patch te maken.
 
 ### Conclusie
 Hoe zorg ik dat mijn componenten zo min mogelijke vulnerabilities hebben? Als eerst kijken we naar wanneer je componenten nu vulnerable zijn. Dit kan gebeuren door dat ze outdated zijn, niet meer worden bijgewerkt, niet samen werken met andere componenten of door een onbetrouwbare site is verkregen. Hierdoor kan je component niet goed werkt of je applicatie open stelt tot het lekken van gevoelige data of cyber aanvallen. Om dit te voorkomen is het belangrijk dat je regelmatig naar updates kijkt van je componenten, goed naar de source kijkt waar je ze vandaan haalt, de policies nastreeft van de components, checkt of ze samenwerken, kijkt of ze bugs bevatten en eventueel het zelf modificeren / patchen van deze componenten. Dit kun je handmatig doen of je kunt voor een groot deel van deze taken een pipeline opzetten zodat het automatisch gebeurt.  
