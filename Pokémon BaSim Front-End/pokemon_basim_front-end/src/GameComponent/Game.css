@@ -1,5 +1,65 @@
 .Game-body {
     margin-top: 49px;
     background: #282c34;
-    min-height: 100vh;
+    min-height: calc(100vh - 49px);
+}
+
+.Game-game {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.Game-visuals {
+    background-image: url("../../public/Assets/BattleBackground.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 60vw;
+    height: 60vh;
+    position: relative;
+}
+.p1-pokemon {
+    position: absolute;
+    bottom: 0;
+    width: 40%;
+    height: 60%;
+}
+.p2-pokemon {
+    position: absolute;
+    right: 13%;
+    top: 20%;
+    width: 20%;
+    height: 40%;
+}
+
+.Game-moves {
+    display: flex;
+    justify-content: space-between;
+    width: 60vw;
+    height: 32vh;
+}
+.action-btn {
+    text-align: center;
+    font-size: xxx-large;
+    margin-top: 10px;
+    border-radius: 50px;
+    width: 33%;
+    height: 44%;
+}
+.action-btn:hover {
+    transform: scale(1.15);
+    cursor: pointer;
+}
+.atk-btn {
+    background-color: red;
+}
+.item-btn {
+    background-color: #92a0f2;
+}
+.quit-btn {
+    background-color: #595959;
+}
+
+.Game-log {
+    background-color: #92a0f2;
+    width: 40vw;
 }
