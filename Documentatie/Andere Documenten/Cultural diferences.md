@@ -24,4 +24,4 @@ Ik kon me hier in een aantal dingen wel in terug vinden, zo ben ik graag zelf le
 De uitkomsten van mijn teamgenoten waren als volgt:  
 Sjoerd: Mediator  
 Dennis: Mediator  
-Lucas: ???
+Lucas: Entertainer
