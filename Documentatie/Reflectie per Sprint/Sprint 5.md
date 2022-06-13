@@ -31,7 +31,7 @@ Totaal:
   - [Back-End Frameworks](../Analyse/Back-End%20Frameworks.md)
   - [UX](../Analyse/UX.md)
 - Docker toegepast
-- Async problemen oplossen
+- Async problemen oplossen: [Async RR](../Analyse/Research%20Report%20Async%20Functions.md)
 - Begrijpbare UX documenteren: [UX](../Analyse/UX.md)
 
 Waar sta ik dan? - Ik denk dat ik nu op proficient sta, Ik heb alles wat ik met de docent heb afgesproken aan kunnen tonen en mezelf mee bezig gehouden. Ik weet wat alle onderwerpen inhouden en kan deze ook uitleggen en toepassen.
@@ -51,20 +51,21 @@ dus opgesomt:
 - security en performance testen
 
 wat heb ik gedaan?  
-*Ik ben vooral bezig geweest met het implementeren van Jest voor mijn tests. Dit kwam omdat hij mijn testen niet kon vinden en was hier veel tijd mee kwijt geraakt.*  
+*Helaas heb ik deze sprint tegen een steen aangelopen waardoor ik mijn fe testen niet allemaal kon laten uitvoeren. Wel heb ik be testen gemaakt en deze uitgevoerd en een Risk quality test ontwerp gemaakt.*  
+
 Totaal:
 - Georiënteerd wat Software Quality inhoud
 - Een code quality document geschreven en hieraan gehouden: [Code Quality](../../Belangrijke%20Documenten/Code%20Kwaliteit.md).
 - Mezelf bezig gehouden met de SOLID principes: meeting over SOLID bijgewoond.
 - verdiept in de verschillen tussen unit/intergration/acceptance testen
 - verdiept in security + performance testen
-
-Wat ga ik doen?
 - Tests maken
 - Automated tests maken
+
+Wat ga ik doen?
 - Risk based test ontwerp maken
 
-Waar sta ik dan? - Ik denk dat ik nu op beginning sta, ik heb nu uitgezocht wat dit leerdoel inhoud en heb hier de eerste stappen in gezet
+Waar sta ik dan? - Ik denk dat ik nu op proficient sta, ik weet wat dit onderwerp inhoud en ben hier ook uitgebreid mee bezig geweest. Ik kan dit ook aantonen.
 
 ---
 
@@ -124,6 +125,7 @@ dus opgesomt:
 
 Wat heb ik gedaan?  
 *Ik heb deze sprint een test gedaan om te kijken wat voor een persoon ik ben, ik heb dit gedaan omdat een groepslid deze test aanraadde om zo te zien wat voor persoonlijkheid elk groepslid heeft zodat wij hier rekening mee kunnen houden en begrip voor elkaar kunnen tonen.*
+- [Cultural differences](../Andere%20Documenten/Cultural%20diferences.md)
 
 ---
 
@@ -194,8 +196,4 @@ Totaal:
 Wat ga ik nog doen?
 - 
 
-Waar sta ik dan? - Ik denk dat dat ik richting de proficient ga, ik houd goed bij waar ik mee bezig ben en vraag ook regelmatig feedback, het enige wat ik nog wat meer moet doen is duidelijke bewijsstukken toevoegen zodat je in een oogopslag kan zien wat ik heb gedaan.
-
----
-
-### Reflectie  
+Waar sta ik dan? - Ik denk dat dat ik op de proficient sta, ik houd goed bij waar ik mee bezig ben en vraag ook regelmatig feedback. Deze verwerk ik ook vrijwel meteen en ben actief bezig.
