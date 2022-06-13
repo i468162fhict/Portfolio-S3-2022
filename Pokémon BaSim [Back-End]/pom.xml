@@ -47,7 +47,7 @@
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
-            <version>10.2.1.jre17</version>
+            <version>9.4.1.jre8</version>
         </dependency>
         <dependency>
             <groupId>org.mockito</groupId>
@@ -55,12 +55,11 @@
             <version>4.6.1</version>
         </dependency>
     </dependencies>
-
     <build>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
-                <filtering>false</filtering>
+                <filtering>true</filtering>
             </resource>
         </resources>
         <plugins>
@@ -71,5 +70,21 @@
         </plugins>
         <finalName>pokemon-basim</finalName>
     </build>
-
+    <profiles>
+        <profile>
+            <id>rel</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <myActiveProfile>rel</myActiveProfile>
+            </properties>
+        </profile>
+        <profile>
+            <id>dev</id>
+            <properties>
+                <myActiveProfile>dev</myActiveProfile>
+            </properties>
+        </profile>
+    </profiles>
 </project>
