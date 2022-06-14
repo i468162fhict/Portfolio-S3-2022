@@ -1,5 +1,5 @@
 import React from "react";
-import NewGameComponent from "../components/NewGameComponent";
+import NewGameComponent from "../NewGameComponent/NewGameComponent";
 
 const Home = () => {
     return(
