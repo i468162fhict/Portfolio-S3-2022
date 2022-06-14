@@ -22,6 +22,11 @@ Hoe test je UX desgin?[^2]
 - User surveys, een van de beste dingen die je kunt doen is een survey maken met vragen over je UX als je dit goed en gedataileerd doet kun je hier heel veel uit halen.
 - Visitor screen recording, als je een video krijgt van de gebruiker die gebruik maakt van je website kun je precies doen wat een gebruiker doet en hoe hij dit doet. Hierbij kun je al verschillende punten makkelijk inzien en eventueel veranderen voor een betere ervaring.
 
+Wireframes:  
+<img src="https://user-images.githubusercontent.com/99262072/172624186-36962aa7-373a-4ce6-b18c-7a888f98f60a.gif" width="20%" height="30%"/>
+<img src="https://user-images.githubusercontent.com/99262072/172624203-4b5ef50b-0ed7-4d9f-a411-ab0f7842503e.gif" width="20%" height="30%"/>  
+Hier heb ik twee wireframes gemaakt om te kijken waar de voorkeur lag bij de opdrachtgevers. Dit hebben wij naar hun gestuurd en kregen hier reactie op dat optie nummer 1 het beste was.
+
 
 [^1]: https://careerfoundry.com/en/blog/ux-design/10-classic-ux-design-fails/
 [^2]: https://www.freshconsulting.com/insights/blog/8-methods-of-ux-testing/
