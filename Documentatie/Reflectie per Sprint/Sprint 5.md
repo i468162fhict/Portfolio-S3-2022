@@ -101,16 +101,17 @@ Leeruitkomst 4 (CI/CD):
 - CI/CD Implementeren  
 
 wat heb ik gedaan?  
-*Ik heb deze sprint al een klein CI bestand opgezet en deze geimplementeert, verder heb ik ook een CD aangemaakt en deze laten builden en een docker image laten maken, hierbij ben ik alleen tegen een probleem aangelopen met de VPN om met de database te kunnen verbinden*
+*Ik heb deze sprint de laatste dingetjes toegevoegd aan mijn pipelines, zo heb ik nu een static code analysis via SonarCloud en krijg hier een uitgebreid rapport over.*
 Totaal:
 - Gekeken naar wat CI/CD inhoud: [CI/CD](../Analyse/CI-CD.md) + Een workshop van Patrick aangevraagd en bijgewoond.
 - CI bestand gemaakt en toegepast
 - CD gemaakt en toegepast
-
-Wat ga ik nog doen?
 - Code quality checken
 
-Waar sta ik dan? - Ik denk dat ik op beginning sta en bijna op proficient, Ik ben er mee bezig geweest en begrijp wat het is, zo heb ik ook al een bestand opgezet die voor mij mijn testen uitvoert en kijkt of de applicatie een geldige build heeft, hiernaast heb ik een CD bestand gemaakt die de back end test en een image van deployed via docker.
+Wat ga ik nog doen?
+
+
+Waar sta ik dan? - Ik denk dat ik op proficient sta, Ik begrijp wat het is, zo kan ik een bestand opgzetten die voor mij mijn testen uitvoert en kijkt of de applicatie een geldige build heeft, hiernaast heb ik een CD bestand gemaakt die de back end test en een image van deployed via docker. Als laatste heb ik ook nog een static code analysis toegevoegd via SonarCloud.
 
 ---
 
