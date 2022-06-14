@@ -47,6 +47,6 @@ jobs:
           tags: latest
           registry: docker.io
           dockerfile: Dockerfile
-          working-directory: Pokémon BaSim Back-End
+          directory: Pokémon BaSim Back-End
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
