@@ -1,7 +1,7 @@
 import React from "react";
-import '../CSS/NewGame.css'
+import './NewGame.css'
 import NewGameService from "../services/NewGameService";
-import PokemonComponent from "./PokemonComponent";
+import PokemonComponent from "../PokemonComponent/PokemonComponent";
 import SessionService from "../services/SessionService";
 
 class NewGameComponent extends React.Component {
