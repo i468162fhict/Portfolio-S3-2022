@@ -49,6 +49,7 @@ dus opgesomt:
 - Onderbouwen waarom sommige tests automated zijn
 - Het verschil tussen unit/intergration/acceptence tests uitleggen
 - security en performance testen
+- intergreerde kwaliteits testen: [Code quality results](../Andere%20Documenten/CQ%20Check.md)
 
 wat heb ik gedaan?  
 *Helaas heb ik deze sprint tegen een steen aangelopen waardoor ik mijn fe testen niet allemaal kon laten uitvoeren. Wel heb ik be testen gemaakt en deze uitgevoerd en een Risk quality test ontwerp gemaakt.*  
@@ -106,7 +107,7 @@ Totaal:
 - Gekeken naar wat CI/CD inhoud: [CI/CD](../Analyse/CI-CD.md) + Een workshop van Patrick aangevraagd en bijgewoond.
 - CI bestand gemaakt en toegepast
 - CD gemaakt en toegepast
-- Code quality checken
+- Code quality checken: [Code quality results](../Andere%20Documenten/CQ%20Check.md)
 
 Wat ga ik nog doen?
 
