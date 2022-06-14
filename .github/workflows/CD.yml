@@ -46,6 +46,6 @@ jobs:
           image: 468162/pokemon-basim
           tags: latest
           registry: docker.io
-          dockerfile: Dockerfile
+          dockerfile: Pokémon BaSim [Back-End]/Dockerfile
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
