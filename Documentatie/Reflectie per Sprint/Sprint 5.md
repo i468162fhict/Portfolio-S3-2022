@@ -167,11 +167,9 @@ Wat heb ik gedaan?
 
 Totaal:
 - Hosting
+- [Flowchart inwerken](../Andere%20Documenten/Business%20Processen.md)
 
-Wat ga ik nog doen?
-- 
-
-Waar sta ik dan? - Ik denk dat ik op beginning sta, ik ben er wel mee bezig geweest maar heb nog niet voldoende om aan te kunnen tonen.
+Waar sta ik dan? - Ik denk dat ik op proficient sta, ik heb gekeken naar verschillende business aspecten en heb mijn product op verbetering hiervan gebaseerd. Ook hebben we gekeken naar een manier om hosting te gebruiken voor bruikbaarheid.
 
 ---
 
