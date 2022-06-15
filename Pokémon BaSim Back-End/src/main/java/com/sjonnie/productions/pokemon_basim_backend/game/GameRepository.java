@@ -6,6 +6,6 @@ import org.springframework.data.jpa.repository.Query;
 import java.util.List;
 
 public interface GameRepository extends JpaRepository<Game, Long> {
-    @Query("SELECT a FROM Game a WHERE a.Player2Id IS NULL")
+    @Query("SELECT a FROM Game a WHERE a.player2Id IS NULL")
     List<Game> findJoinableGame();
 }
