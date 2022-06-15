@@ -17,5 +17,6 @@ public class PokemonTests {
     @Test
     void getPokemons(){
         assertNotNull(pokemonRepository);
+        assertNotNull(this.pokemonRepository.findAll());
     }
 }
