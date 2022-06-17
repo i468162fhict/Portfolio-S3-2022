@@ -18,7 +18,7 @@ dus opgesomt:
 - Begrijpbare UX en begrijpen waarom dit belangrijk is.
 
 Wat heb ik gedaan?  
-*Ik heb deze laatste sprint mezelf nog bezig gehouden met het documenteren en testen van een begrijpbare UX en wat dit inhoud en nog async problemen opgelost*  
+*Ik heb deze laatste sprint mezelf nog bezig gehouden met het documenteren en testen van een begrijpbare UX en wat dit inhoud en nog async problemen opgelost, verder heb ik wat Tests in de back-end geschreven en heb ik Async functionaliteit toegepast met Websockets*  
 Totaal:
 - Georiënteerd wat Full-Stack inhoud: [Full-Stack](../Analyse/Full-Stack.md)
 - Workshops: [Workshops](../Analyse/Workshops.md)
@@ -32,6 +32,7 @@ Totaal:
   - [UX](../Analyse/UX.md)
 - Docker toegepast
 - Async problemen oplossen: [Async RR](../Analyse/Research%20Report%20Async%20Functions.md)
+- Async met Websockets video: [Async Demo](../Videos/2022-06-17%2016-28-02.mp4) (Click on view raw to download file!)
 - Begrijpbare UX documenteren: [UX](../Analyse/UX.md)
 
 Waar sta ik dan? - Ik denk dat ik nu op proficient sta, Ik heb alles wat ik met de docent heb afgesproken aan kunnen tonen en mezelf mee bezig gehouden. Ik weet wat alle onderwerpen inhouden en kan deze ook uitleggen en toepassen.
@@ -52,7 +53,7 @@ dus opgesomt:
 - intergreerde kwaliteits testen: [Code quality results](../Andere%20Documenten/CQ%20Check.md)
 
 wat heb ik gedaan?  
-*Helaas heb ik deze sprint tegen een steen aangelopen waardoor ik mijn fe testen niet allemaal kon laten uitvoeren. Wel heb ik be testen gemaakt en deze uitgevoerd en een Risk quality test ontwerp gemaakt.*  
+*Helaas heb ik deze sprint tegen een steen aangelopen waardoor ik mijn fe testen niet allemaal kon laten uitvoeren. Wel heb ik be testen gemaakt en deze uitgevoerd en een Risk quality test ontwerp gemaakt. Verder heb ik nog be testen en API testen gemaakt en verder gekeken naar Performance testen*  
 
 Totaal:
 - Georiënteerd wat Software Quality inhoud
@@ -62,11 +63,13 @@ Totaal:
 - verdiept in security + performance testen
 - Tests maken
 - Automated tests maken
+- Risk based test ontwerp maken [Risk based testing](../Analyse/Risk%20based%20testing.md)
+- Performance testen
 
 Wat ga ik doen?
-- Risk based test ontwerp maken
 
-Waar sta ik dan? - Ik denk dat ik nu op proficient sta, ik weet wat dit onderwerp inhoud en ben hier ook uitgebreid mee bezig geweest. Ik kan dit ook aantonen.
+
+Waar sta ik dan? - Ik denk dat ik nu op proficient sta, ik weet wat dit onderwerp inhoud en ben hier ook uitgebreid mee bezig geweest. Ik kan dit ook aantonen door verschillende testen uit te laten voeren en kennis.
 
 ---
 
