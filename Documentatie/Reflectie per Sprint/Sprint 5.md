@@ -64,6 +64,8 @@ Totaal:
 - Tests maken
 - Automated tests maken
 - Risk based test ontwerp maken [Risk based testing](../Analyse/Risk%20based%20testing.md)
+- API tests [test results](../Andere%20Documenten/API%20Testing.md)
+- BE tests [test results be](../Andere%20Documenten/BE%20testing.md)
 - Performance testen
 
 Wat ga ik doen?
