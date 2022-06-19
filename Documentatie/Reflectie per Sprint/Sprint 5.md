@@ -50,7 +50,7 @@ dus opgesomt:
 - Onderbouwen waarom sommige tests automated zijn
 - Het verschil tussen unit/intergration/acceptence tests uitleggen
 - security en performance testen
-- intergreerde kwaliteits testen: [Code quality results](../Andere%20Documenten/CQ%20Check.md)
+- intergreerde kwaliteits testen
 
 wat heb ik gedaan?  
 *Helaas heb ik deze sprint tegen een steen aangelopen waardoor ik mijn fe testen niet allemaal kon laten uitvoeren. Wel heb ik be testen gemaakt en deze uitgevoerd en een Risk quality test ontwerp gemaakt. Verder heb ik nog be testen en API testen gemaakt en verder gekeken naar Performance testen*  
@@ -66,7 +66,8 @@ Totaal:
 - Risk based test ontwerp maken [Risk based testing](../Analyse/Risk%20based%20testing.md)
 - API tests [test results](../Andere%20Documenten/API%20Testing.md)
 - BE tests [test results be](../Andere%20Documenten/BE%20testing.md)
-- Performance testen
+- Kwaliteits testen: [Code quality results](../Andere%20Documenten/CQ%20Check.md)
+- Performance testen: [Perfomance test research](../Analyse/Perfomance%20Testing.md)
 
 Wat ga ik doen?
 
