@@ -30,7 +30,7 @@ Totaal:
   - [Front-End Frameworks](../Analyse/Front-End%20Frameworks.md)
   - [Back-End Frameworks](../Analyse/Back-End%20Frameworks.md)
   - [UX](../Analyse/UX.md)
-- Docker toegepast
+- Docker toegepast: [Docker image](../Andere%20Documenten/Docker%20image.md)
 - Async problemen oplossen: [Async RR](../Analyse/Research%20Report%20Async%20Functions.md)
 - Async met Websockets video: [Async Demo](../Videos/2022-06-17%2016-28-02.mp4) (Click on view raw to download file!)
 - Begrijpbare UX documenteren: [UX](../Analyse/UX.md)
@@ -82,7 +82,7 @@ dus opgesomt:
 - Git issues
 - SCRUM Poker
 - Per sprint kijken wat we gaan doen
-- burn up/down chart
+
 
 Wat heb ik gedaan?
 *We hebben deze sprint de taken iets groter opgesteld aangezien vorige sprint ze iets te klein waren en hebben de taken van zieke teamleden overgenomen om zo toch door te kunne bouwen aan ons project*
@@ -95,7 +95,7 @@ Totaal:
 - Retrospectives
 
 Wat ga ik nog doen?
-- Burn up/down chart gemaakt worden
+
 
 Waar sta ik dan? - Ik denk dat ik al op proficient sta, ik snap wat agile werken inhoud en probeer mezelf hier ook steeds aan te houden, zo werk ik alleen aan het stuk waar ik mee bezig ben, voegen we steeds punten toe aan taken, verschuiven we de taken wel is naar prioriteit en werken we per sprint aan een paar doelen.
 
@@ -132,8 +132,11 @@ dus opgesomt:
 - Rekening houden met de verschillen in de culturen
 
 Wat heb ik gedaan?  
-*Ik heb deze sprint een test gedaan om te kijken wat voor een persoon ik ben, ik heb dit gedaan omdat een groepslid deze test aanraadde om zo te zien wat voor persoonlijkheid elk groepslid heeft zodat wij hier rekening mee kunnen houden en begrip voor elkaar kunnen tonen.*
+*Ik heb deze sprint een test gedaan om te kijken wat voor een persoon ik ben, ik heb dit gedaan omdat een groepslid deze test aanraadde om zo te zien wat voor persoonlijkheid elk groepslid heeft zodat wij hier rekening mee kunnen houden en begrip voor elkaar kunnen tonen. Verder hebben we een powerpoint bekeken die je met je groepje kunt doen om zo ieders stand punt te kunnen zien over verschillende culturen en hun reacties hierop.*
 - [Cultural differences](../Andere%20Documenten/Cultural%20diferences.md)
+- [Feedpulse Groep](../Andere%20Documenten/FeedPulse.pdf)
+
+Waar sta ik dan? - Ik denk dat ik op proficient sta, de docenten hadden al gezegd dat dit een lastige was om daadwerkelijk toe te passen / aan te tonen daarom hebben we met Marc gekeken naar wat mogelijkheden zouden zijn om dit toe te passen. Zo hebben we een personality test gedaan en een Cultural Powerpoint besproken met vragen die over culural differences gaan.
 
 ---
 
@@ -153,11 +156,12 @@ Totaal:
 - Duidelijk blijven wat we gaan doen
 - Kijken met de stakeholders wat ze willen
 - Houden aan verschillende design keuzes
-
-Wat ga ik nog doen?
 - Alles compleet inleveren
 
-Waar sta ik dan? - Ik denk dat ik op proficient sta, dit omdat ik denk dat ondanks dat we niet altijd alles goed hebben gecommuniceerd dat ik er toch wel het een en het ander van heb geleerd en nu ook echt doe. Zo zijn we al meer bezig met goede communicatie en kijken we goed naar wat de stakeholders zelf willen in plaats van wat wij willen.
+Wat ga ik nog doen?
+
+
+Waar sta ik dan? - Ik denk dat ik op proficient sta, dit omdat ik denk dat ondanks dat we niet altijd alles goed hebben gecommuniceerd dat ik er toch wel het een en het ander van heb geleerd en nu ook echt doe. Zo zijn we al meer bezig met goede communicatie en kijken we goed naar wat de stakeholders zelf willen in plaats van wat wij willen. Verder was de opdrachtgever uiteindelijk blij met het opgeleverde product.
 
 ---
 
@@ -193,7 +197,7 @@ Wat heb ik gedaan?
 *Ook deze sprint heb ik mijn best gedaan om optijd feedback te vragen, zo heb ik een workshop over CI/CD aangevraagd en heb ik wat inhoudelijke vragen gesteld. Ook heb ik geprobeerd om mijn documentatie nog op orde te houden zodat ik alles aan kan tonen en dit semester goed af kan ronden.*
 
 Totaal:
-- consistent feedback vragen
+- consistent feedback vragen [Feed pulse individueel](../Andere%20Documenten/FeedPulseI.pdf)
 - feedback verwerken
 - keuzes onderbouwd
 - documentatie goed bijhouden
